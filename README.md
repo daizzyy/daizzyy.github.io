@@ -9,4 +9,4 @@ Data scientist @ Toyota Financail Services
 - big impact project 2!
 
 ### Projects
-EEG Band Discovery
+![EEG Band Discovery](/https://docs.google.com/document/d/1HgjsvAsAIdgZqR6hSd9f5lLlDTRxi2Oilv5bWsvA-_o/edit)
