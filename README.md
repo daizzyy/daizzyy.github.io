@@ -1,7 +1,9 @@
-# Data Scientist
+# Suhyeon Kim
 
 ### Education
-Chemistry, B.S
+- B.S., Chemistry | Gwangju Institute of Science and Technology (_2022 Feb ~ 2027 Jun_)
+- M.S., Chemistry |
+- Ph.D., Chemistry | 
 
 ### Work Experience
 Data scientist @ Toyota Financail Services
